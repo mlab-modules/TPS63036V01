@@ -4,6 +4,7 @@ github_description: null
 github_repo: TPS63036V01
 github_url: https://github.com/mlab-modules/TPS63036V01
 homepage: false
+image_title: doc/gen/img/TPS63036V01-top.png
 images:
 - doc/gen/img/TPS63036V01-bottom.png
 - doc/gen/img/TPS63036V01-top.png
@@ -15,7 +16,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/TPS63036V01-ibom.html
 mod_scheme: doc/gen/TPS63036V01-schematic.pdf
-status: 0
+status: 2
 tags: []
 title: TPS63036V01
 updated: '2024-07-06T20:23:17.561139+00:00'
