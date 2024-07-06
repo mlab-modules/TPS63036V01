@@ -1,6 +1,8 @@
-description: null
+description: Highly efficient buck-boost converter module (TPS63036V01) for stable
+  power output in portable and low-power devices.
 github_branch: TPS63036V01A
-github_description: null
+github_description: Highly efficient buck-boost converter module (TPS63036V01) for
+  stable power output in portable and low-power devices.
 github_repo: TPS63036V01
 github_url: https://github.com/mlab-modules/TPS63036V01
 homepage: false
@@ -17,6 +19,8 @@ mark: 50
 mod_ibom: hw/cam_profi/TPS63036V01-ibom.html
 mod_scheme: doc/gen/TPS63036V01-schematic.pdf
 status: 2
-tags: []
+tags:
+- mlab-module
+- power-supp
 title: TPS63036V01
-updated: '2024-07-06T20:23:17.561139+00:00'
+updated: '2024-07-06T20:43:06.048600+00:00'
