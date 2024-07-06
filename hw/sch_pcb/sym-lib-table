@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "TPS63036V01-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TPS63036V01-eagle-import.kicad_sym")(options "")(descr ""))
+)

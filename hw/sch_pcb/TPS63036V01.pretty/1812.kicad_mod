@@ -1,0 +1,38 @@
+(footprint "1812" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "pouzdro 1812")
+  (fp_text reference "REF**" (at -1.905 -2.54) (layer "F.SilkS")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 19fe00ea-4e42-435d-9924-b74a77b3a471)
+  )
+  (fp_text value "1812" (at -1.905 3.81) (layer "F.Fab")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 63869254-9f2c-4da8-a9b3-d5563f7787e3)
+  )
+  (fp_line (start -1.4732 -1.6002) (end 1.4732 -1.6002)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 1b826201-c57c-43cf-85d6-d8461eb7801e))
+  (fp_line (start -1.4478 1.6002) (end 1.4732 1.6002)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 2965f2e9-5fc0-47e9-99d2-889441724ba8))
+  (fp_poly
+    (pts
+      (xy -2.3876 1.651)
+      (xy -1.4376 1.651)
+      (xy -1.4376 -1.649)
+      (xy -2.3876 -1.649)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp a7bb3418-51be-43de-9594-d2b75ad3bc34))
+  (fp_poly
+    (pts
+      (xy 1.4478 1.651)
+      (xy 2.3978 1.651)
+      (xy 2.3978 -1.649)
+      (xy 1.4478 -1.649)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp fc211c23-b0fc-4eba-af85-6c67f2c6c2e5))
+  (pad "1" smd rect (at -1.95 0) (size 1.9 3.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 0) (tstamp 1c8120d7-c7b6-44c5-9f41-dfecc4136442))
+  (pad "2" smd rect (at 1.95 0) (size 1.9 3.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 0) (tstamp 5f13d92f-dd82-47c9-99b4-e6d2b1fd4aef))
+)
