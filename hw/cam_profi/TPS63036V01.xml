@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/TPS63036V01.kicad_sch</source>
+    <date>Sat Jul  6 20:22:40 2024</date>
+    <tool>Eeschema 7.0.11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>TPS63036V01A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TPS63036V01.kicad_sch</source>
+        <comment number="1" value="Switching power supply"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C16">
+      <value>10uF</value>
+      <footprint>TPS63036V01:C0805</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="C0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c44efd2-bb35-4cde-85a7-687ae849b39c</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>TPS63036V01:C0805</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="C0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e03a54-e96c-4cc2-8d74-76bf13056329</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10u</value>
+      <footprint>TPS63036V01:C0805</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="C0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2be15015-2652-4631-be92-81535a1ed17c</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10u</value>
+      <footprint>TPS63036V01:C0805</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="C0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6de35da0-7c88-45fe-b55f-be378e523cbc</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>47uF</value>
+      <footprint>TPS63036V01:B</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="B" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>647209b0-b1c5-4039-8dfa-843c6771b788</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10p</value>
+      <footprint>TPS63036V01:0603</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="C0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b6816f-e40b-4268-933d-f3c2129a2025</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D-OB.SMA</value>
+      <footprint>TPS63036V01:SMA</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="D-OB.SMA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32fa1fd5-5e3f-412d-a674-d18981363348</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>LPS3015-152MLC</value>
+      <footprint>TPS63036V01:LPS3015</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="LPS3015" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4973e0bc-a3b4-4f23-a087-d0d19a4b4b06</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>POJISTKA_1812</value>
+      <footprint>TPS63036V01:1812</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="POJISTKA_1812" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c95bbb3b-b75b-4e71-a835-0beea2edda27</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>TRIM_CA9MTV10</value>
+      <footprint>TPS63036V01:TRIM_CA9MTV10</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="TRIM_CA9MTV10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4af2fb61-5f27-4500-85e0-b50861b6a831</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>287k</value>
+      <footprint>TPS63036V01:0603</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="R0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e35771c-a48d-4561-8cb9-d2169359462b</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>51k1</value>
+      <footprint>TPS63036V01:0603</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="R0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c67adf63-5378-4055-aa4c-c4576b045cfd</tstamps>
+    </comp>
+    <comp ref="SV1">
+      <value>MA02-1</value>
+      <footprint>TPS63036V01:MA02-1</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="MA02-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbb76409-78fe-4680-9382-7bcbc22215ec 0d40e4d8-a550-46eb-873c-f475c0943d34</tstamps>
+    </comp>
+    <comp ref="SV3">
+      <value>MA03-2</value>
+      <footprint>TPS63036V01:MA03-2</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="MA03-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>274d9389-a9c5-4cba-afb9-747854b51c92 ffa1597c-16b9-4e73-89bb-d72b709684c3 00eeffd2-421b-4f96-9ae5-5c045f7c83f9</tstamps>
+    </comp>
+    <comp ref="SV5">
+      <value>MA03-2</value>
+      <footprint>TPS63036V01:MA03-2</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="MA03-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>890a3de3-0165-4ae5-b290-3edbd2903855 bab95a47-3ac5-40b3-bb3b-2808cf320915 4780889b-78f1-4bdc-afd3-44327c500d72</tstamps>
+    </comp>
+    <comp ref="SV6">
+      <value>MA02-1</value>
+      <footprint>TPS63036V01:MA02-1</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="MA02-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94176ee0-be39-4326-a690-d9d8200ab54e 3611e52c-9bc5-42c6-a07f-43af10545687</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>SROUB3M</value>
+      <footprint>TPS63036V01:SROUB3M</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="SROUB3M" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cb90a07-33f0-4e2c-9042-0a173074569e</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>SROUB3M</value>
+      <footprint>TPS63036V01:SROUB3M</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="SROUB3M" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbb67d2f-9c6d-4e1e-8ab6-6078a62690ec</tstamps>
+    </comp>
+    <comp ref="X3">
+      <value>SROUB3M</value>
+      <footprint>TPS63036V01:SROUB3M</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="SROUB3M" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be1f5004-f0f7-4917-ada4-1cf851a6c4c8</tstamps>
+    </comp>
+    <comp ref="X4">
+      <value>SROUB3M</value>
+      <footprint>TPS63036V01:SROUB3M</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="SROUB3M" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce762f29-28fc-4050-8772-aefad4816131</tstamps>
+    </comp>
+    <comp ref="X9">
+      <value>APX809-26SA</value>
+      <footprint>TPS63036V01:SOT23</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="APX809-26SA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b7640bb-29ab-43a4-a81d-f01efa0db94e</tstamps>
+    </comp>
+    <comp ref="X10">
+      <value>TPS63036</value>
+      <footprint>TPS63036V01:DSBGA8</footprint>
+      <libsource lib="TPS63036V01-eagle-import" part="TPS63036" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPS63036V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a7a3d35-359b-4fa1-aeaa-b2fbe02f8f9c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="TPS63036V01-eagle-import" part="APX809-26SA">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Footprint">TPS63036V01:SOT23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="/RESET" type="passive"/>
+        <pin num="3" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="B">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">TPS63036V01:B</field>
+      </fields>
+      <pins>
+        <pin num="+" name="C_EL+" type="passive"/>
+        <pin num="-" name="C_EL-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="C0603">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">TPS63036V01:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="C0805">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">TPS63036V01:C0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="D-OB.SMA">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Footprint">TPS63036V01:SMA</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="K" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="LPS3015">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Footprint">TPS63036V01:LPS3015</field>
+      </fields>
+      <pins>
+        <pin num="1-1" name="1" type="passive"/>
+        <pin num="1-2" name="1" type="passive"/>
+        <pin num="1-3" name="1" type="passive"/>
+        <pin num="2-1" name="2" type="passive"/>
+        <pin num="2-2" name="2" type="passive"/>
+        <pin num="2-3" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="MA02-1">
+      <fields>
+        <field name="Reference">SV</field>
+        <field name="Footprint">TPS63036V01:MA02-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="passive"/>
+        <pin num="2" name="P$1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="MA03-2">
+      <fields>
+        <field name="Reference">SV</field>
+        <field name="Footprint">TPS63036V01:MA03-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+        <pin num="4" name="K" type="passive"/>
+        <pin num="5" name="K" type="passive"/>
+        <pin num="6" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="POJISTKA_1812">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Footprint">TPS63036V01:1812</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="R0603">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">TPS63036V01:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="SROUB3M">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Footprint">TPS63036V01:SROUB3M</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="P$1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="TPS63036">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Footprint">TPS63036V01:DSBGA8</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="VIN" type="input"/>
+        <pin num="A2" name="EN" type="input"/>
+        <pin num="B1" name="L1" type="passive"/>
+        <pin num="B2" name="PS/SYNC" type="input"/>
+        <pin num="C1" name="L2" type="passive"/>
+        <pin num="C2" name="GND" type="passive"/>
+        <pin num="D1" name="VOUT" type="output"/>
+        <pin num="D2" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS63036V01-eagle-import" part="TRIM_CA9MTV10">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Footprint">TPS63036V01:TRIM_CA9MTV10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="TPS63036V01-eagle-import">
+      <uri>/github/workspace/hw/sch_pcb/TPS63036V01-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C20" pin="-" pinfunction="C_EL-" pintype="passive"/>
+      <node ref="D1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SV3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SV3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="SV3" pin="5" pinfunction="K" pintype="passive"/>
+      <node ref="SV3" pin="6" pinfunction="K" pintype="passive"/>
+      <node ref="SV5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SV5" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="SV5" pin="5" pinfunction="K" pintype="passive"/>
+      <node ref="SV5" pin="6" pinfunction="K" pintype="passive"/>
+      <node ref="SV6" pin="2" pinfunction="P$1" pintype="passive"/>
+      <node ref="X1" pin="P$1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="X10" pin="C2" pinfunction="GND" pintype="passive"/>
+      <node ref="X2" pin="P$1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="X3" pin="P$1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="X4" pin="P$1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="X9" pin="1" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C20-C_EL+)">
+      <node ref="C16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C20" pin="+" pinfunction="C_EL+" pintype="passive"/>
+      <node ref="D1" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="X10" pin="A1" pinfunction="VIN" pintype="input"/>
+      <node ref="X9" pin="3" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(P1-Pad1)">
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SV3" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="SV3" pin="4" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(SV1A-P$1)">
+      <node ref="SV1" pin="1" pinfunction="P$1" pintype="passive"/>
+      <node ref="X9" pin="2" pinfunction="/RESET" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(SV1B-P$1)">
+      <node ref="SV1" pin="2" pinfunction="P$1" pintype="passive"/>
+      <node ref="X10" pin="A2" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(SV6A-P$1)">
+      <node ref="SV6" pin="1" pinfunction="P$1" pintype="passive"/>
+      <node ref="X10" pin="B2" pinfunction="PS/SYNC" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(X10-FB)">
+      <node ref="C21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="X10" pin="D2" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(X10-L1)">
+      <node ref="L2" pin="1-1" pinfunction="1" pintype="passive"/>
+      <node ref="L2" pin="1-2" pinfunction="1" pintype="passive"/>
+      <node ref="L2" pin="1-3" pinfunction="1" pintype="passive"/>
+      <node ref="X10" pin="B1" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(X10-L2)">
+      <node ref="L2" pin="2-1" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="2-2" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="2-3" pinfunction="2" pintype="passive"/>
+      <node ref="X10" pin="C1" pinfunction="L2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(X10-VOUT)">
+      <node ref="C17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SV5" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="SV5" pin="4" pinfunction="K" pintype="passive"/>
+      <node ref="X10" pin="D1" pinfunction="VOUT" pintype="output"/>
+    </net>
+  </nets>
+</export>
